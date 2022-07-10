@@ -5,7 +5,7 @@ Feature: Order products
 
   @tag1
   Scenario: Title of your scenario
-    Given I want to write a step with precondition  +++
+    Given I want to write a step with precondition
     And some other precondition
     When I complete action
     And some other action
@@ -33,7 +33,7 @@ Feature: Order products
     Then I validate the outcomes
     And check more outcomes
     
-     @tag4wr
+     @tag4
   Scenario: Title of your scenario
     Given I want to write a step with precondition
     And some other precondition
